@@ -32,6 +32,10 @@ func main() {
 	// numberSlice = append(numberSlice, 6)
 	// variadicSumFunction(numberSlice...)
 
-	returnedFunction := closure()
-	fmt.Println(returnedFunction())
+	// returnedFunction := closure()
+	// fmt.Println(returnedFunction())
+
+	// fmt.Println(factorialRecursive(5))
+
+	fmt.Println(fibonacciRecursive(7))
 }

@@ -37,5 +37,10 @@ func main() {
 
 	// fmt.Println(factorialRecursive(5))
 
-	fmt.Println(fibonacciRecursive(7))
+	// fmt.Println(fibonacciRecursive(7))
+
+	// changeValue()
+	// runeRepresentation()
+	// structs()
+	makeQuiz()
 }

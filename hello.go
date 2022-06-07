@@ -42,5 +42,9 @@ func main() {
 	// changeValue()
 	// runeRepresentation()
 	// structs()
-	makeQuiz()
+	// makeQuiz()
+
+	// makeShapes()
+
+	makeCarOwner()
 }

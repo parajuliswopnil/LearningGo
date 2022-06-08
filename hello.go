@@ -46,5 +46,7 @@ func main() {
 
 	// makeShapes()
 
-	makeCarOwner()
+	// makeCarOwner()
+
+	generics()
 }

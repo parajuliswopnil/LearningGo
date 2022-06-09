@@ -48,5 +48,9 @@ func main() {
 
 	// makeCarOwner()
 
-	generics()
+	// generics()
+
+	// makeThreads()
+
+	demoChannel()
 }

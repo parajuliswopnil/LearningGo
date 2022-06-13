@@ -52,5 +52,7 @@ func main() {
 
 	// makeThreads()
 
-	demoChannel()
+	// demoChannel()
+	// channelBuffering()
+	callChannelSync()
 }

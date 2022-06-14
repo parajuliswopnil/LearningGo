@@ -54,5 +54,8 @@ func main() {
 
 	// demoChannel()
 	// channelBuffering()
-	callChannelSync()
+	// callChannelSync()
+
+	// selectChannelsAccordingToExecTime()
+	timeOutsImplementation()
 }
